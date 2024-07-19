@@ -28,8 +28,8 @@ This project is designed to Create a captivating and responsive user interface f
 To get started with the Refer & Earn project, clone this repository and install the necessary dependencies.
 
 ```bash
-git clone <repository-url>
-cd refer-and-earn
+git clone "https://github.com/SekharSunkara6/Accredian-FE-Task.git"
+cd Accredian-FE-Task
 npm install
 ```
 
