@@ -9,6 +9,7 @@
    Mention all the necessary form fields required for capturing the referrer 
    and referee details.
 3. Design Considerations:
+    </br>
    a) Utilize Material-UI or Tailwind CSS for building components and 
       achieving a modern and visually appealing design.
     </br>
