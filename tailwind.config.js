@@ -1,0 +1,106 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        aliceblue: {
+          "100": "#eef5ff",
+          "200": "rgba(235, 243, 255, 0.35)",
+        },
+        "homeaccrediancom-royal-blue": "#1a73e8",
+        "homeaccrediancom-nero": "#fff",
+        "homeaccrediancom-gull-gray-20": "rgba(148, 163, 184, 0.2)",
+        "homeaccrediancom-mirage": "#1a202c",
+        "homeaccrediancom-royal-blue-15": "rgba(26, 115, 232, 0.15)",
+        "homeaccrediancom-mine-shaft": "#262626",
+        royalblue: {
+          "100": "rgba(26, 115, 232, 0.11)",
+          "200": "rgba(26, 115, 232, 0.35)",
+        },
+        black: "#000",
+        "homeaccrediancom-mine-shaft1": "#282828",
+        "homeaccrediancom-mystic": "#e2e8f0",
+        "homeaccrediancom-japanese-laurel": "#007bff",
+        darkslateblue: "#1350a0",
+        darkslategray: {
+          "100": "#4b4b4b",
+          "200": "#3c4852",
+          "300": "rgba(60, 72, 82, 0.52)",
+        },
+        gray: {
+          "100": "rgba(0, 0, 0, 0.87)",
+          "200": "rgba(0, 0, 0, 0.22)",
+        },
+        dodgerblue: {
+          "100": "#4099ff",
+          "200": "#3b82f6",
+        },
+        whitesmoke: "#f5f5f5",
+        dimgray: "#737373",
+        silver: "#b7b7b7",
+        cornflowerblue: "#26a1ff",
+        gainsboro: "#e6e6e6",
+        lightgray: "#c9cfd6",
+      },
+      spacing: {},
+      fontFamily: {
+        inter: "Inter",
+        "homeaccrediancom-roboto-bold-17": "Roboto",
+        "source-sans-pro": "'Source Sans Pro'",
+      },
+      borderRadius: {
+        sm: "14px",
+        "10xl": "29px",
+        "6xs": "7px",
+        "19xl": "38px",
+        "26xl": "45px",
+      },
+    },
+    fontSize: {
+      "mini-8": "14.8px",
+      "base-3": "15.3px",
+      mini: "15px",
+      "mini-9": "14.9px",
+      mid: "17px",
+      "base-9": "16.9px",
+      "35xl": "54px",
+      "21xl": "40px",
+      "69xl": "88px",
+      "8xl-7": "27.7px",
+      base: "16px",
+      sm: "14px",
+      xl: "20px",
+      lg: "18px",
+      "lg-8": "18.8px",
+      "base-7": "16.7px",
+      "9xl": "28px",
+      "base-1": "15.1px",
+      "base-6": "16.6px",
+      "6xl": "25px",
+      "3xl": "22px",
+      "13xl": "32px",
+      "5xl": "24px",
+      "25xl": "44px",
+      "7xl": "26px",
+      inherit: "inherit",
+    },
+    screens: {
+      mq1650: {
+        raw: "screen and (max-width: 1650px)",
+      },
+      mq1300: {
+        raw: "screen and (max-width: 1300px)",
+      },
+      mq900: {
+        raw: "screen and (max-width: 900px)",
+      },
+      mq450: {
+        raw: "screen and (max-width: 450px)",
+      },
+    },
+  },
+  corePlugins: {
+    preflight: false,
+  },
+};
