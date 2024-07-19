@@ -11,7 +11,7 @@
 3. Design Considerations:
     </br>
    a) Utilize Material-UI or Tailwind CSS for building components and 
-      achieving a modern and visually appealing design.
+       achieving a modern and visually appealing design.
     </br>
    b) Implement form validation for mandatory fields.
   # accradian
