@@ -19,8 +19,8 @@ This project is designed to Create a captivating and responsive user interface f
 
 ### Design Considerations
 
-- **Styling with Material-UI/Tailwind CSS**: We've utilized Material-UI/Tailwind CSS to build our components, ensuring a modern and visually appealing design that's both responsive and engaging.
-- **Form Validation**: Mandatory fields in the referral form are validated to ensure that all necessary information is provided before submission. This ensures a smooth and error-free process for users participating in the refer & earn program.
+- **Styling with Material-UI/Tailwind CSS**
+- **Form Validation**
 
 ## Getting Started
 
