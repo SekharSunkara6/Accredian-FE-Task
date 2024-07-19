@@ -5,12 +5,14 @@
   triggers a popup modal with referral form for referring a course.
 
 # Requirements:
-1. Refer & Earn Landing Page:
-   Hero section with a "Refer Now" button.
-2. Popup Modal:
-   Mention all the necessary form fields required for capturing the referrer 
-   and referee details.
-3. Design Considerations:
+• Refer & Earn Landing Page:
+  </br>
+  a) Hero section with a "Refer Now" button.
+• Popup Modal:
+  </br>
+  a) Mention all the necessary form fields required for capturing the 
+     referrer and referee details.
+• Design Considerations:
     </br>
    a) Utilize Material-UI or Tailwind CSS for building components and 
        achieving a modern and visually appealing design.
