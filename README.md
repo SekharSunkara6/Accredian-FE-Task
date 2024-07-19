@@ -1,3 +1,6 @@
+# Refer & Earn Accredian-FE task
+  This project is designed to create a captivating and responsive user interface for a refer & earn landing page, utilizing React.js. Our goal is to provide a visually 
+  appealing, intuitive experience for users looking to refer a course through our platform.
 <<<<<<< HEAD
   # accradian
 
