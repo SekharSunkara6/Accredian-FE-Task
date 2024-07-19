@@ -13,10 +13,9 @@ This project is designed to Create a captivating and responsive user interface f
 - **Referral Form**: The popup modal contains a referral form designed to capture all necessary details about the referrer and the referee. The form fields include:
   - Referrer's Name
   - Referrer's Email
-  - Referee's Name
-  - Referee's Email
-  - Course to Refer
-  - Additional Comments (optional)
+  - Referral Detail's
+  - Referrer Name
+  - Referrer Email
 
 ### Design Considerations
 
